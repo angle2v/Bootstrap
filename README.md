@@ -8,22 +8,21 @@ Sass 변수 및 믹스 인, 반응 형 그리드 시스템, 광범위한 사전 
 https://getbootstrap.com/
 
 ### Bootstrap 작동화면
-> ![container](RM_img/container.jpg)
 > #### Container
-> ![color](RM_img/color.jpg)
+> ![container](RM_img/container.jpg)
 > #### color
-> ![spacing](RM_img/spacing.jpg)
+> ![color](RM_img/color.jpg)
 > #### spacing
-> ![table](RM_img/table.jpg)
+> ![spacing](RM_img/spacing.jpg)
 > #### table
-> ![grid_system](RM_img/grid_system.jpg)
+> ![table](RM_img/table.jpg)
 > #### grid_system
-> ![card](RM_img/card.jpg)
+> ![grid_system](RM_img/grid_system.jpg)
 > #### card
-> ![carousel](RM_img/carousel.jpg)
+> ![card](RM_img/card.jpg)
 > #### carousel
-> ![jumbotron](RM_img/jumbotron.jpg)
+> ![carousel](RM_img/carousel.jpg)
 > #### jumbotron
-> ![navbar](RM_img/navbar.jpg)
+> ![jumbotron](RM_img/jumbotron.jpg)
 > #### navbar
-
+> ![navbar](RM_img/navbar.jpg)
