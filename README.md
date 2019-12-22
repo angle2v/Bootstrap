@@ -7,5 +7,7 @@ Sass 변수 및 믹스 인, 반응 형 그리드 시스템, 광범위한 사전 
 ### Bootstrap 공식페이지
 https://getbootstrap.com/
 
-![container](RM_img/container.jpg)
+### Bootstrap 작동화면
+> ![container](RM_img/container.jpg)
+#### Container
 
