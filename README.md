@@ -11,19 +11,19 @@ https://getbootstrap.com/
 > ![container](RM_img/container.jpg)
 > #### Container
 > ![color](RM_img/color.jpg)
-> #### Container
+> #### color
 > ![spacing](RM_img/spacing.jpg)
-> #### Container
+> #### spacing
 > ![table](RM_img/table.jpg)
-> #### Container
+> #### table
 > ![grid_system](RM_img/grid_system.jpg)
-> #### Container
+> #### grid_system
 > ![card](RM_img/card.jpg)
-> #### Container
+> #### card
 > ![carousel](RM_img/carousel.jpg)
-> #### Container
+> #### carousel
 > ![jumbotron](RM_img/jumbotron.jpg)
-> #### Container
+> #### jumbotron
 > ![navbar](RM_img/navbar.jpg)
-> #### Container
+> #### navbar
 
