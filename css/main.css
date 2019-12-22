@@ -1,0 +1,18 @@
+/* header{
+    position: absolute;
+} */
+.bg-black{
+    background-color: black;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+    margin-top: 0;
+}
+
+.jumbotron{
+    background: url(../img/carousel1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
