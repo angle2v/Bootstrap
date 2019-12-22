@@ -10,4 +10,20 @@ https://getbootstrap.com/
 ### Bootstrap 작동화면
 > ![container](RM_img/container.jpg)
 > #### Container
+> ![color](RM_img/color.jpg)
+> #### Container
+> ![spacing](RM_img/spacing.jpg)
+> #### Container
+> ![table](RM_img/table.jpg)
+> #### Container
+> ![grid_system](RM_img/grid_system.jpg)
+> #### Container
+> ![card](RM_img/card.jpg)
+> #### Container
+> ![carousel](RM_img/carousel.jpg)
+> #### Container
+> ![jumbotron](RM_img/jumbotron.jpg)
+> #### Container
+> ![navbar](RM_img/navbar.jpg)
+> #### Container
 
