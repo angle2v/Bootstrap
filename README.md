@@ -4,10 +4,10 @@
 부트 스트랩은 HTML, CSS 및 JS로 개발하기위한 오픈 소스 툴킷<br>
 Sass 변수 및 믹스 인, 반응 형 그리드 시스템, 광범위한 사전 빌드 된 구성 요소 및 jQuery를 기반
 
-### Bootstrap 공식페이지
+### Bootstrap 공식 페이지
 https://getbootstrap.com/
 
-### Bootstrap 작동화면
+### Bootstrap 작동 화면
 > #### Container
 > ![container](RM_img/container.jpg)
 > #### color
